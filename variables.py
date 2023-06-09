@@ -24,3 +24,14 @@ a = 5
 b = "John"
 print(type(a))
 print(type(b)) 
+
+#String variables can be declared either by using single or double quotes:
+4 = "John"
+# is the same as
+4 = 'John'
+
+
+#Variable names are case-sensitive.
+c = 4
+C = "Sally"
+#C will not overwrite c 
